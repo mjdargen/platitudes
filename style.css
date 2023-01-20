@@ -26,7 +26,8 @@ h1 {
 }
 
 button {
-    font-family: 'JetBrains Mono';
+    font-family: inherit;
+    color: black;
     font-size: .6em;
     white-space: normal;
     word-wrap: break-word;
