@@ -26,6 +26,9 @@ h1 {
 }
 
 button {
+    -webkit-appearance: none;
+    border: none;
+    border-radius: 0.25em;
     font-family: inherit;
     color: black;
     font-size: .6em;
